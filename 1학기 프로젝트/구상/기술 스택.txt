@@ -1,1 +1,5 @@
+기술 스택
 
+- MyBatis
+- Swagger (GET, POST, PUT, DELETE)
+- 지하철 혼잡도 API
